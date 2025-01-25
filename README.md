@@ -1,4 +1,3 @@
-# Weather-Application
 # Weather Application
 
 ## Introduction
@@ -37,7 +36,7 @@ This project is built using the following technologies:
 - **College:** Delhi Technological University (DTU)
 
 ## Screenshots
-![Weather Application Screenshot](screenshot.png)
+![Weather Application Screenshot](image.png)
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
